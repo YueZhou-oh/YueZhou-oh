@@ -10,15 +10,17 @@ YueZhou-oh/YueZhou-oh is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-⚡ Latest blog posts
+⚡ Latest blog posts 
 <!-- BLOG-POST-LIST:START -->
+- 💫 DDPM: [Derivation of denoising diffusion probabilistic models.](https://yuezhou-oh.github.io/blog/paperreading/Understanding_diffusion_model.html)
+- 🍻 Transformer: [Mechanism of self-attention](https://yuezhou-oh.github.io/blog/paperreading/Understanding_Transformers.html)
+- 💐 WaveNet: [WaveNet for audio generation](https://yuezhou-oh.github.io/blog/paperreading/WaveNet_for_audio_generation.html)
 - 
 
 <!-- BLOG-POST-LIST:END -->
 
 ⚡ Projects
 <!-- PROJECTS START -->
-
+- 
 
 <!-- PROJECTS END -->
-- 
