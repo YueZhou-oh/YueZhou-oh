@@ -15,12 +15,15 @@ You can click the Preview link to take a look at your changes.
 - 💫 DDPM: [Derivation of denoising diffusion probabilistic models.](https://yuezhou-oh.github.io/blog/paperreading/Understanding_diffusion_model.html)
 - 🍻 Transformer: [Mechanism of self-attention](https://yuezhou-oh.github.io/blog/paperreading/Understanding_Transformers.html)
 - 💐 WaveNet: [WaveNet for audio generation](https://yuezhou-oh.github.io/blog/paperreading/WaveNet_for_audio_generation.html)
+- :jack_o_lantern: GAN: [Review of generative adversial network](https://yuezhou-oh.github.io/blog/paperreading/GAN.html)
+- :christmas_tree: RNN: [Review of recurrent neural network](https://yuezhou-oh.github.io/blog/paperreading/RNN.html)
+- :balloon: SE: [Review of speech enhancement algorithm](https://yuezhou-oh.github.io/blog/paperreading/Signal_enhancement_review.html)
 - 
 
 <!-- BLOG-POST-LIST:END -->
 
 ⚡ Projects
 <!-- PROJECTS START -->
-- 
+- :art: AIPerf: [TBA](...)
 
 <!-- PROJECTS END -->
