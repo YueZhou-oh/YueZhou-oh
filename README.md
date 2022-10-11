@@ -1,5 +1,5 @@
 ### Halloo 👋 
-- 👋 Hi, I’m @YueZhou
+- 👋 Hi, I’m YueZhou
 - 👀 I’m interested in machine learning and high performance computing.
 - 🌱 I’m currently working at PengCheng Laboratory, ShenZhen, China.
 - 💞️ I’m looking to collaborate on project that focusing on artificial intelligence for science.
