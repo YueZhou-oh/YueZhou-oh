@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 - :jack_o_lantern: GAN: [Review of generative adversial network](https://yuezhou-oh.github.io/blog/paperreading/GAN.html)
 - :christmas_tree: RNN: [Review of recurrent neural network](https://yuezhou-oh.github.io/blog/paperreading/RNN.html)
 - :balloon: SE: [Review of speech enhancement algorithm](https://yuezhou-oh.github.io/blog/paperreading/Signal_enhancement_review.html)
-- 
+- :stuck_out_tongue_closed_eyes: MLLM: [Brief summary](https://yuezhou-oh.github.io/blog/llm/MLLM_Brief_Summary.pdf)
 
 <!-- BLOG-POST-LIST:END -->
 
