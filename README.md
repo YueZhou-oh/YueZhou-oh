@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 - :balloon: SE: [Review of speech enhancement algorithm](https://yuezhou-oh.github.io/blog/paperreading/Signal_enhancement_review.html)
 - :stuck_out_tongue_closed_eyes: MLLM: [Brief summary](https://yuezhou-oh.github.io/blog/llm/MLLM_Brief_Summary.pdf)
 - :mega: DL Env Setup: [Brief tutorial](https://yuezhou-oh.github.io/blog/env/DL_ENV_SETUP.html)
+- :label: RLHF Intro: [RLHF training steps](https://yuezhou-oh.github.io/blog/llm/ChatGPT.pdf)
 
 <!-- BLOG-POST-LIST:END -->
 
