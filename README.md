@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:START -->
 - 💫 DDPM: [Derivation of denoising diffusion probabilistic models](https://yuezhou-oh.github.io/blog/paperreading/Understanding_diffusion_model.html)
 - ☕ Diffusion: [Transformer-based diffusion review](https://yuezhou-oh.github.io/blog/llm/Diffusion_Overview.html)
+- 🎁 Nflow: [Normalizing Flow](https://yuezhou-oh.github.io/blog/llm/Normalizing_Flow.pdf)
 - 🍰 3DGS: [3D Gaussion Splatting and NeRF](https://yuezhou-oh.github.io/blog/llm/3DGS.html)
 - 🥯 CL: [Contrastive Learning and NCE](https://yuezhou-oh.github.io/blog/llm/Contrastive_learning.html)
 - 🍻 Transformer: [Mechanism of self-attention](https://yuezhou-oh.github.io/blog/paperreading/Understanding_Transformers.html)
