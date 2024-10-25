@@ -29,9 +29,9 @@ You can click the Preview link to take a look at your changes.
 
 <!-- BLOG-POST-LIST:END -->
 
-
-⚡ Projects
+<!---⚡ Projects --->
 <!-- PROJECTS START -->
-- :art: AIPerf: [TBA](...)
+<!---- :art: AIPerf: [TBA](...)--->
+
 
 <!-- PROJECTS END -->
